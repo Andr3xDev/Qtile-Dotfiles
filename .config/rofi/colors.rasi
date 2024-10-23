@@ -1,0 +1,13 @@
+* {
+    BG:    #202020;
+    BGA:   #cfcfcf;
+    FG:    #D9E0EE;
+    FGA:   #00c3ff;
+    SEL:   #cfcfcf;
+    BDR:   #ffffff;
+    IMG:   #FAE3B0;
+    UGT:   #00c3ff;
+    SEL:   #141414;
+    OFF:   #575268;
+    ON:    #ABE9B3;
+}
