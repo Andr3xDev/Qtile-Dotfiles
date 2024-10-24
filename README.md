@@ -1,10 +1,12 @@
 # Qtile & Arch Rice
 
-## Table of Contents
+##### Table of Contents
 - [Screenshots](#screenshots)
 - [Description](#description)
   - [Features](#features)
 - [Installation](#installation)
+  - [Automatic](#automatic)
+  - [Manual](#manual)
 - [Configuration](#configuration)
 - [License](#license)
 
@@ -17,7 +19,7 @@ Here are some examples of what your desktop can look like using this rice:
 
 ## Description
 > [!CAUTION]
-> This rice is not able to use with Wayland, plis use Xorg.
+> This rice is not able to use with Wayland, please use Xorg.
 
 This is my personal and definitive first but lastone rice i will do.
 If you are looking for some **minimalist** rice, this is for you. It just have the esscencial things to work property. but it's able to add whatever you want.
@@ -29,11 +31,11 @@ If you are looking for some **minimalist** rice, this is for you. It just have t
 - **Supports multiple window managers**: Works with i3, bspwm, dwm, and more.
 
 </br>
+</br>
 
 ## Installation
 > [!NOTE]
 > If you want control of anything, just do the manual install, else, use the installer, it will set everything for you (Ideal to new boots).
-</br>
 
 ### Automatic
 Step 1: Clone the Repository
@@ -83,16 +85,20 @@ Step 5: Copy SDDM config and Xorg config
 
 ```
 
-
+</br>
 </br>
 
 ## Configuration
 (PENDING)
 
 </br>
+</br>
 
 ## License
 This project is licensed under the MIT License. See the LICENSE file for more details.
+
+</br>
+</br>
 
 ---
 Made by Andr3xDev
